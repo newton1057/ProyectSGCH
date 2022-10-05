@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  background-color: white;
 }
 
 .App-logo {
@@ -24,6 +27,7 @@
   color: white;
 }
 
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +40,4 @@
     transform: rotate(360deg);
   }
 }
+
